@@ -735,15 +735,24 @@ body {
 ## OUTPUT:
 
 ### Home Page:
+![Screenshot from 2023-01-29 18-11-00](https://user-images.githubusercontent.com/118707073/215328038-1032539c-5f06-4233-aab1-f42a3e6297b6.png)
 
 ### Product Page:
+![Screenshot from 2023-01-29 18-11-59](https://user-images.githubusercontent.com/118707073/215328053-99961997-a192-4419-a6ae-f0be09c4645d.png)  
+
+![Screenshot from 2023-01-29 18-12-09](https://user-images.githubusercontent.com/118707073/215328063-cc2e71d7-7292-426a-b7bd-4eb0c9ec40f8.png)
 
 ### People Page:
+![Screenshot from 2023-01-29 18-13-28](https://user-images.githubusercontent.com/118707073/215328067-a4f81dbb-25ab-415f-93e1-e554e6d21ce7.png)  
+
+![Screenshot from 2023-01-29 18-13-31](https://user-images.githubusercontent.com/118707073/215328074-446dc886-2e8d-4539-a1ba-5da1f54b423b.png)
 
 ### Contact Page:
+![Screenshot from 2023-01-29 18-13-52](https://user-images.githubusercontent.com/118707073/215328075-85116e63-b501-4171-a2b0-936f9b97a4f0.png)
 
 ### HTML Validator:
 
+![Screenshot from 2023-01-29 18-15-19](https://user-images.githubusercontent.com/118707073/215328081-ec1bd283-fd56-4fac-b1d6-f6a361f3fc5a.png)
 
 ## Result:
 
